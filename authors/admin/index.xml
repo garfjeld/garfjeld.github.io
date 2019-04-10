@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on Patrick Garfjeld Roberts</title>
-    <link>https://garfjeld.github.io/authors/admin/</link>
+    <link>/authors/admin/</link>
     <description>Recent content in admin on Patrick Garfjeld Roberts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://garfjeld.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://garfjeld.github.io/author/admin/</link>
+      <link>/author/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://garfjeld.github.io/author/admin/</guid>
+      <guid>/author/admin/</guid>
       <description>Patrick is a Trauma and Orthopaedics Surgery Registrar training in the Oxford Deanery. He undertook his pre-clinical and clinical medical studies at Hertford College, Oxford, and completed his Foundation training in North West Thames and his Core Surgical training in Oxford. He began Trauma and Orthopaedic higher surgical training on the Oswestry rotation before transferring back to Oxford, and went out-of-programme as the Royal College of Surgeons Dinwoodie Research Fellow in Simulation and Surgical Training working towards his DPhil at NDORMS.</description>
     </item>
     
