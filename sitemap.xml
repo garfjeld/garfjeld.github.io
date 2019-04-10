@@ -3,63 +3,63 @@
   
     <url>
     
-      <loc>https://garfjeld.github.io/author/admin/</loc>
+      <loc>/author/admin/</loc>
     </url>
   
     <url>
     
-      <loc>https://garfjeld.github.io/author/</loc>
+      <loc>/author/</loc>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://garfjeld.github.io/authors/</loc>
+      <loc>/authors/</loc>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://garfjeld.github.io/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://garfjeld.github.io/</loc>
+      <loc>/</loc>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://garfjeld.github.io/post/</loc>
+      <loc>/post/</loc>
     </url>
   
     <url>
     
-      <loc>https://garfjeld.github.io/publication_types/</loc>
+      <loc>/publication_types/</loc>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://garfjeld.github.io/publication/</loc>
+      <loc>/publication/</loc>
     </url>
   
     <url>
     
-      <loc>https://garfjeld.github.io/talk/</loc>
+      <loc>/talk/</loc>
     </url>
   
     <url>
     
-      <loc>https://garfjeld.github.io/tags/</loc>
+      <loc>/tags/</loc>
       <priority>0</priority>
     </url>
   
     <url>
     
-      <loc>https://garfjeld.github.io/authors/admin/</loc>
+      <loc>/authors/admin/</loc>
       <priority>0</priority>
     </url>
   
