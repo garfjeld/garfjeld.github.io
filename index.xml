@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patrick Garfjeld Roberts on Patrick Garfjeld Roberts</title>
-    <link>/</link>
+    <link>https://garfjeld.github.io/</link>
     <description>Recent content in Patrick Garfjeld Roberts on Patrick Garfjeld Roberts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Example Page</title>
-      <link>/tutorial/example/</link>
+      <link>https://garfjeld.github.io/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tutorial/example/</guid>
+      <guid>https://garfjeld.github.io/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
